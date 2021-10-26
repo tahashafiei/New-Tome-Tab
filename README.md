@@ -6,3 +6,4 @@ Theme: Rose Pine
 
 > **NOTE**: keep it in mind that I don't own any rights to image included in this repo.
 
+![img](preview.png)
