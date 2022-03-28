@@ -2,7 +2,7 @@
 Custom new tab/home tab for personal use. Hence "Tome" tab.
 
 - Font: Fira Code
-<s>- Theme: Rose Pine<s>
+- <s>Theme: Rose Pine<s>
 - Theme: Nord
 
 > **NOTE**: Keep it in mind that I don't own any rights to image included in this repo.
